@@ -1,0 +1,11 @@
+build:
+  version: "1.0.0"
+
+accounts:
+  message: "Welcome to MyCorp PROD Accounts Microservice"
+  contactDetails:
+    name: "Susan Smith"
+    email: "susan@mycorp.com"
+  onCallSupport:
+    - (888) 555-1234
+    - (888) 555-1345

@@ -1,0 +1,11 @@
+build:
+  version: "3.0.0"
+
+accounts:
+  message: "Welcome to MyCorp Accounts Microservice"
+  contactDetails:
+    name: "John Doe"
+    email: "john@mycorp.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-1345
